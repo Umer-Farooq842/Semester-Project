@@ -1,0 +1,26 @@
+{
+  "name": "university-planner",
+  "version": "1.0.0",
+  "description": "University Planner Web Application - Task management system for students",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --cors --port 3000",
+    "frontend": "live-server --port=5500",
+    "dev": "concurrently \"npm run start\" \"npm run frontend\""
+  },
+  "keywords": [
+    "university",
+    "planner",
+    "task-management",
+    "json-server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete Data Structures Assignment",
+      "course": "CS101",
+      "category": "assignment",
+      "priority": "high",
+      "dueDate": "2026-06-20",
+      "status": "completed",
+      "description": "Implement binary search tree and complete all exercises",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Project",
+      "course": "WEB102",
+      "category": "project",
+      "priority": "high",
+      "dueDate": "2026-06-25",
+      "status": "completed",
+      "description": "Build a full-stack e-commerce platform",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 3,
+      "title": "Database Design Exam",
+      "course": "DB201",
+      "category": "exam",
+      "priority": "medium",
+      "dueDate": "2026-06-22",
+      "status": "completed",
+      "description": "Prepare for relational database design exam",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 4,
+      "title": "Study Group Meeting",
+      "course": "MATH150",
+      "category": "study",
+      "priority": "low",
+      "dueDate": "2026-06-16",
+      "status": "completed",
+      "description": "Review calculus concepts with peers",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 5,
+      "title": "Algorithm Quiz",
+      "course": "CS101",
+      "category": "exam",
+      "priority": "high",
+      "dueDate": "2026-06-18",
+      "status": "completed",
+      "description": "Quick quiz on sorting and searching algorithms",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 6,
+      "title": "Python Programming Assignment",
+      "course": "CS102",
+      "category": "assignment",
+      "priority": "medium",
+      "dueDate": "2026-06-23",
+      "status": "completed",
+      "description": "Create object-oriented programming exercises",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 7,
+      "title": "Physics Lab Report",
+      "course": "PHY101",
+      "category": "project",
+      "priority": "medium",
+      "dueDate": "2026-06-28",
+      "status": "completed",
+      "description": "Write comprehensive lab report on mechanics",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 8,
+      "title": "English Essay Submission",
+      "course": "ENG201",
+      "category": "assignment",
+      "priority": "high",
+      "dueDate": "2026-06-17",
+      "status": "completed",
+      "description": "5000-word essay on contemporary literature",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 9,
+      "title": "Chemistry Midterm",
+      "course": "CHEM101",
+      "category": "exam",
+      "priority": "high",
+      "dueDate": "2026-06-21",
+      "status": "pending",
+      "description": "Comprehensive exam covering organic chemistry",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 10,
+      "title": "Review Lecture Notes",
+      "course": "HIST202",
+      "category": "study",
+      "priority": "low",
+      "dueDate": "2026-06-19",
+      "status": "pending",
+      "description": "Study notes for American history exam",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 11,
+      "title": "Mobile App Development Project",
+      "course": "MOB301",
+      "category": "project",
+      "priority": "high",
+      "dueDate": "2026-07-05",
+      "status": "in-progress",
+      "description": "Create a weather forecasting mobile application",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 12,
+      "title": "Statistics Homework",
+      "course": "STAT150",
+      "category": "assignment",
+      "priority": "medium",
+      "dueDate": "2026-06-24",
+      "status": "pending",
+      "description": "Complete 50 problems on probability and distributions",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 13,
+      "title": "Systems Design Case Study",
+      "course": "CS301",
+      "category": "assignment",
+      "priority": "high",
+      "dueDate": "2026-06-26",
+      "status": "pending",
+      "description": "Design scalable system architecture",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 14,
+      "title": "Prepare Presentation Slides",
+      "course": "BUS101",
+      "category": "study",
+      "priority": "medium",
+      "dueDate": "2026-06-20",
+      "status": "in-progress",
+      "description": "Create slides for business strategy presentation",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 15,
+      "title": "Data Science Project",
+      "course": "DS201",
+      "category": "project",
+      "priority": "high",
+      "dueDate": "2026-07-10",
+      "status": "completed",
+      "description": "Analyze large dataset and create visualization dashboard",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 16,
+      "title": "Final Exam Preparation",
+      "course": "CS101",
+      "category": "study",
+      "priority": "high",
+      "dueDate": "2026-06-27",
+      "status": "pending",
+      "description": "Review all semester materials for final exam",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 17,
+      "title": "Cybersecurity Assignment",
+      "course": "CS201",
+      "category": "assignment",
+      "priority": "medium",
+      "dueDate": "2026-06-29",
+      "status": "pending",
+      "description": "Document security vulnerabilities and solutions",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 18,
+      "title": "Machine Learning Midterm",
+      "course": "ML301",
+      "category": "exam",
+      "priority": "high",
+      "dueDate": "2026-06-24",
+      "status": "pending",
+      "description": "Test on neural networks and algorithms",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 19,
+      "title": "Group Discussion Forum",
+      "course": "ART150",
+      "category": "study",
+      "priority": "low",
+      "dueDate": "2026-06-20",
+      "status": "completed",
+      "description": "Participate in art history discussion",
+      "createdAt": "2026-06-14"
+    },
+    {
+      "id": 20,
+      "title": "Network Programming Project",
+      "course": "NET201",
+      "category": "project",
+      "priority": "high",
+      "dueDate": "2026-07-02",
+      "status": "pending",
+      "description": "Build a distributed chat application",
+      "createdAt": "2026-06-14"
+    }
+  ]
+}
